@@ -46,8 +46,6 @@
 			<plugin>
 				<groupId>com.google.cloud.tools</groupId>
 				<artifactId>appengine-maven-plugin</artifactId>
-				<!--suppress UnresolvedMavenProperty -->
-				<version>${appengine-maven-plugin-version}</version>
 			</plugin>
 		</plugins>
 	</build>
